@@ -1,0 +1,15 @@
+{
+  "name": "cy-press-lib-example",
+  "version": "1.0.0",
+  "description": "TBD.",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@walmyr-filho/cy-press": "^0.0.1-development",
+    "cypress": "^10.2.0"
+  }
+}
