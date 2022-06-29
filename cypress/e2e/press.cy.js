@@ -1,3 +1,5 @@
+/// <reference types="@walmyr-filho/cy-press/src" />
+
 describe('.press() command', () => {
   beforeEach(() => {
     cy.visit('https://duckduckgo.com')
